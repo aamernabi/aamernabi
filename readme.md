@@ -1,4 +1,4 @@
-	### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 I'm **Aamer Paul,** a passionate Android Engineer who enjoys developing Mobile Apps, learning Machine Learning algorithms, and creating technology to help people. 
 
