@@ -1,10 +1,10 @@
-## Hey there, <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px"/>
+## Hey there, <img src="https://github.com/aamernabi/aamernabi/blob/main/assets/waving_hand.gif" width="30px"/>
 
 I'm **Aamer Paul,** a passionate Android Engineer who enjoys developing Mobile Apps, learning Machine Learning algorithms, and creating technology to help people.
 
 <br />
 
-<img align="right" src="https://github.com/aamernabi/aamernabi/blob/main/vcs.svg?raw=true" width="500" />
+<img align="right" src="https://github.com/aamernabi/aamernabi/blob/main/assets/vcs.svg?raw=true" width="500" />
 
 **⚡ Technologies**
 
