@@ -22,7 +22,7 @@ I'm **Aamer Paul,** a passionate Android Engineer who enjoys developing Mobile A
 
 <br/>
 
-**Also, find me** <img src="https://media.giphy.com/media/MeD9umsDoqnm5pIfUr/giphy.gif" width="30px"/>
+**🔎 Find me @**
 
 <p float="left" sp>
   <a href="https://twitter.com/aamernabi">
